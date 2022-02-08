@@ -1,1 +1,1 @@
-branch-1 - pierwsza wiadomosc - branch-conflict-2 - pierwsza wiadomosc
+branch-3 - druga zwrotnosc - branch-conflict-3 - druga zwrotnosc
