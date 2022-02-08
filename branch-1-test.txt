@@ -1,1 +1,1 @@
-branch-1 - pierwsza wiadomosc
+branch-1 - pierwsza wiadomosc - branch-conflict - pierwsza wiadomosc
